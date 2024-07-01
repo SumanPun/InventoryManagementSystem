@@ -1,0 +1,15 @@
+E:\Inventory\InventoryManagementSystem\Application\bin\Debug\net8.0\Application.deps.json
+E:\Inventory\InventoryManagementSystem\Application\bin\Debug\net8.0\Application.dll
+E:\Inventory\InventoryManagementSystem\Application\bin\Debug\net8.0\Application.pdb
+E:\Inventory\InventoryManagementSystem\Application\bin\Debug\net8.0\Domain.dll
+E:\Inventory\InventoryManagementSystem\Application\bin\Debug\net8.0\Domain.pdb
+E:\Inventory\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Inventory\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inventory\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Inventory\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Inventory\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Inventory\InventoryManagementSystem\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+E:\Inventory\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.dll
+E:\Inventory\InventoryManagementSystem\Application\obj\Debug\net8.0\refint\Application.dll
+E:\Inventory\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.pdb
+E:\Inventory\InventoryManagementSystem\Application\obj\Debug\net8.0\ref\Application.dll

@@ -1,0 +1,11 @@
+E:\Inventory\InventoryManagementSystem\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Inventory\InventoryManagementSystem\Domain\bin\Debug\net8.0\Domain.dll
+E:\Inventory\InventoryManagementSystem\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Inventory\InventoryManagementSystem\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inventory\InventoryManagementSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Inventory\InventoryManagementSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Inventory\InventoryManagementSystem\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Inventory\InventoryManagementSystem\Domain\obj\Debug\net8.0\Domain.dll
+E:\Inventory\InventoryManagementSystem\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Inventory\InventoryManagementSystem\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Inventory\InventoryManagementSystem\Domain\obj\Debug\net8.0\ref\Domain.dll
